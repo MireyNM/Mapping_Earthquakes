@@ -2,15 +2,15 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([40.6413, 73.7781], 5);;
+let map = L.map('mapid').setView([40.6413, -73.7781], 5);;
 
 // Coordinates for each point to be used in the line.
 // Coordinates for each point to be used in the polyline.
 let line = [
-    [37.6214, 122.3790],
-    [30.1975, 97.6664],
-    [43.6777, 79.6248],
-    [40.6413, 73.7781]
+    [37.6214, -122.3790],
+    [30.1975, -97.6664],
+    [43.6777, -79.6248],
+    [40.6413, -73.7781]
   ];
 
 // Create a polyline using the line coordinates and make the line red.
