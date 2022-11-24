@@ -7,11 +7,11 @@ In this project, we used URL for GeoJSON earthquake data, tectonic data and majo
 The aim of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
 ## Resources 
-- Data Source: <a href="https://github.com/MireyNM/Plotly_Belly_Button_Biodiversity/blob/main/BellyButtonBiodiversity%20/data/samples.json" target="_blank">samples.json</a>
+- Data Source: <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php">GeoJSON Earthquake Data</a>
 - Software: Visual Studio 1.69.1 
-- HTML code: <a href="https://github.com/MireyNM/Plotly_Belly_Button_Biodiversity/blob/main/BellyButtonBiodiversity%20/index.html" target="_blank">index.html</a>
-- JavaScript code:  <a href="https://github.com/MireyNM/Plotly_Belly_Button_Biodiversity/blob/main/BellyButtonBiodiversity%20/static/js/charts.js" target="_blank">charts.js</a>
-- Style .css code: <a href="https://github.com/MireyNM/Plotly_Belly_Button_Biodiversity/blob/main/BellyButtonBiodiversity%20/static/css/style.css" target="_blank">style.css</a>
+- HTML code: <a href="https://github.com/MireyNM/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html" target="_blank">index.html</a>
+- JavaScript code:  <a href="https://github.com/MireyNM/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js" target="_blank">challenge_logic.js</a>
+- Style .css code: <a href="https://github.com/MireyNM/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css" target="_blank">style.css</a>
 
 ## Results
 
